@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103816363160",
+    "project_id": "flash-chat-57f2a",
+    "storage_bucket": "flash-chat-57f2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103816363160:android:363fe10f67fb9a91da24ed",
+        "android_client_info": {
+          "package_name": "com.helprocure.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103816363160-96esomtrftq8aikh14j5o4d48jdgt75g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6SYQUzUZt-FQjm-D3eB5CtU47awQ6b_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103816363160-96esomtrftq8aikh14j5o4d48jdgt75g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
